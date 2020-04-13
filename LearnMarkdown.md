@@ -102,9 +102,9 @@ come here [MyGit][1]
 
 ## Picture
 
-![alt cat](/home/lsq/ShuffleNet/imagenet/cat.jpg)
+![alt cat](https://github.com/dmlc/mxnet.js/blob/master/data/cat.png?raw=true)
 
-<img src="/home/lsq/ShuffleNet/imagenet/cat.jpg" width="50%">
+<img src="https://github.com/dmlc/mxnet.js/blob/master/data/cat.png?raw=true" width="50%">
 
 
 
